@@ -1,5 +1,4 @@
 # GenAid
-Sure! Here's a README file for your Mobile application GenAID:
 
 ---
 
